@@ -23,18 +23,6 @@
 }
 
 
-.kakao{
-  color: rgb(0, 0, 0);
-  background-color: #ffe600;
-  font-size: 20px;
-  border: 0px;
-  border-radius: 20px;
-}
-
-.kakao:hover, .kakao:focus {
-  background-color: whitesmoke;
-  color: #FEE500;
-}
 
 .resultname{
   margin-top: 10px;
